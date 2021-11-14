@@ -1,0 +1,3 @@
+<launch>
+    <node name="obstacle_avoider" pkg="obstacle-avoider" type="obstacle_avoider.py" />
+</launch>
