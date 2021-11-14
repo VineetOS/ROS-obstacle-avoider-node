@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>obstacle-avoider</name>
+  <version>0.0.0</version>
+  <description>This package includes a generalised obstacle avoider node and corresponding launch file that can be used for obstacle avoidance for any model in ROS using Laser scan.</description>
+
+  <maintainer email="oswal.1@iitj.ac.in">Vineet Oswal</maintainer>
+
+  <license>MIT</license>
+  <url type="website">https://github.com/VineetOS/obstacle-avoidance/</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rospy</build_depend>
+  <build_export_depend>rospy</build_export_depend>
+  <exec_depend>rospy</exec_depend>
+
+  <export>
+
+  </export>
+</package>
