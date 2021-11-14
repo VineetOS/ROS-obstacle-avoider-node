@@ -1,4 +1,4 @@
-# obstacle-avoidance
+# Generalised Obstacle avoidance in ROS
 Generalised obstacle avoider node and launch file for any model in ROS1.
 This has been implemented on Ubuntu 18.04 ROS Melodic. 
 Can also be used for ROS Kinetic and ROS Neotic
